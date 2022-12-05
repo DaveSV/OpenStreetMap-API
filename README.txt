@@ -5,6 +5,8 @@ In this project, we use the free OpenStreetMap API (Nominatim service) to
 convert university names entered by users into geographical locations,
 and then we place the processed data on the OpenStreetMap map.
 
+
+
 Note: After Windows, we recommend that you use the PowerShell terminal so that it doesn't 
 problems with displaying UTF-8 characters.
 
